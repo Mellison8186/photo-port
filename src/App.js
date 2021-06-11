@@ -1,6 +1,7 @@
 import React from 'react';
 import About from './components/About';
 import Nav from './components/Nav';
+import ContactForm from './components/Contact';
 import './App.css';
 
 function App() {
